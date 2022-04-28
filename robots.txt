@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+
+Sitemap: http://kljp.github.io/sitemap.xml
