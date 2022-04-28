@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Daegun Yoon"
+  name             : "Daegun Yoon (윤대건)"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Working toward the integrated MS/PhD degree in the Dept. of AI."
   location         : "Seoul, Republic of Korea"
