@@ -7,7 +7,6 @@ author_profile: true
 
 2Curriculum Vitae
 ===
----
 This is my information.
 
 
