@@ -1,8 +1,10 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
-  - title: "Categories"
+  - title: "CV"
+    url: /cv/
+  - title: "Publication"
+    url: /publication/ 
+  - title: "Posts"
     url: /categories/
   - title: "Tags"
     url: /tags/
