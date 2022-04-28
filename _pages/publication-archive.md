@@ -1,8 +1,8 @@
 ---
 #title: "Curriculum Vitae"
-#layout: single
+layout: single
 permalink: /publication/
-#author_profile: true
+author_profile: true
 ---
 
 2021

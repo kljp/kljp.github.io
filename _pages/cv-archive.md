@@ -1,8 +1,8 @@
 ---
 #title: "Curriculum Vitae"
-#layout: single
+layout: single
 permalink: /cv/
-#author_profile: true
+author_profile: true
 ---
 
 # <center>Daegun Yoon</center>
