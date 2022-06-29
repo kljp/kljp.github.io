@@ -35,6 +35,9 @@ Carrer Summary
 
 Publication
 ---
+**SURF: Direction-Optimizing Breadth-First Search Using Workload State on GPUs**  
+<u>Daegun Yoon</u>, Sangyoon Oh. *Sensors*, Jun. 2022.  
+
 **Balanced content space partitioning for pub/sub: a study on impact of varying partitioning granularity**  
 <u>Daegun Yoon</u>, Zhetao Li, Sangyoon Oh. *The Journal of Supercomputing*, Apr. 2021.  
 
