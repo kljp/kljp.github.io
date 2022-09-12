@@ -1,13 +1,13 @@
 # main links
-main:
-  - title: "CV"
-    url: /cv/
-  - title: "Publication"
-    url: /publication/ 
-  - title: "Posts"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+#main:
+#- title: "CV"
+#   url: /cv/
+#  - title: "Publication"
+#    url: /publication/ 
+#  - title: "Posts"
+#    url: /categories/
+#  - title: "Tags"
+#    url: /tags/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
